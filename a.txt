@@ -1,0 +1,7 @@
+hello this is the data in file a 
+
+
+welcome to file a 
+
+
+ file a has data of file a 
